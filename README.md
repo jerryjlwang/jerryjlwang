@@ -9,7 +9,7 @@
 | Project | Description | Status |
 |--------|-------------|--------|
 | **PitchFork Intelligence** | annotated startup directory - 2M characteristics & 40k startups structured| V1 |
-| **Annotagent** | deep research annotations through agents| arXiv deployed |
+| **[Annotagent](https://annotagent.vercel.app/)** | deep research annotations through agents| arXiv deployed |
 | **MedSentinel** | world models for trauma center simulation | launching soon |
 
 ---
