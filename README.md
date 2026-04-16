@@ -28,6 +28,7 @@
 - **olympiads** -> 4x AIME qualifier | USACO Gold | USAEO Top 50
 - **intern** @ onesixone ventures -> pre-seed vc firm hosting 70+ high-value events per year
 - **deal partner** @ boardy ventures -> first agentic vc fund
+- **nvidia developer** -> building on top of omniverse
 
 ---
 
