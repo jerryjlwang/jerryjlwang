@@ -8,9 +8,10 @@
 
 | Project | Description | Status |
 |--------|-------------|--------|
-| **[PitchFork Intelligence](https://huggingface.co/datasets/jerryjwang/PitchFork_Directory)** | annotated startup directory - 2M characteristics & 40k startups structured| V1 |
+| **[PitchFork Directory](https://huggingface.co/datasets/jerryjwang/PitchFork_Directory)** | annotated startup directory - 2M characteristics & 40k startups structured| V1 |
 | **[Annotagent](https://annotagent.vercel.app/)** | deep research annotations through agents| arXiv deployed |
 | **[MedSim](https://github.com/jerryjlwang/medsim)** | world models for trauma center simulation | Won innovation track at Harvard HSIL Hackathon 2026 |
+| **[OneSixOne Ventures](https://onesixone.ventures)** | custom built web platform | currently deployed |
 
 ---
 
