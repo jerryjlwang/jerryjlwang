@@ -12,6 +12,7 @@
 | **[Annotagent](https://annotagent.vercel.app/)** | deep research annotations through agents| arXiv deployed |
 | **[MedSim](https://github.com/jerryjlwang/medsim)** | world models for trauma center simulation | Won innovation track at Harvard HSIL Hackathon 2026 |
 | **[OneSixOne Ventures](https://onesixone.ventures)** | custom built web platform | currently deployed |
+| **ZombieKiller** | gaussian denoiser for zombie injections | researching |
 
 ---
 
