@@ -6,11 +6,11 @@
 
 ## projects in development
 
-| Project | Description | Status |
+| project | description | status |
 |--------|-------------|--------|
 | **[PitchFork Directory](https://huggingface.co/datasets/jerryjwang/PitchFork_Directory)** | annotated startup directory - 2M characteristics & 40k startups structured| V1 |
 | **[Annotagent](https://annotagent.vercel.app/)** | deep research annotations through agents| arXiv deployed |
-| **[MedSim](https://github.com/jerryjlwang/medsim)** | world models for trauma center simulation | Won innovation track at Harvard HSIL Hackathon 2026 |
+| **[MedSim](https://github.com/jerryjlwang/medsim)** | world models for trauma center simulation | won innovation track at harvard hsil hackathon 2026 |
 | **[OneSixOne Ventures](https://onesixone.ventures)** | custom built web platform | currently deployed |
 | **ZombieKiller** | gaussian denoiser for zombie injections | researching |
 
