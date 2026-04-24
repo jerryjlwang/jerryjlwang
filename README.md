@@ -31,6 +31,7 @@
 - **intern** @ onesixone ventures -> pre-seed vc firm hosting 70+ high-value events per year
 - **deal partner** @ boardy ventures -> first agentic vc fund
 - **nvidia developer** -> building on top of omniverse
+- **aws activate** -> training, sampling, and optimizing models
 
 ---
 
