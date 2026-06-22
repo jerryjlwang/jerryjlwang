@@ -13,6 +13,7 @@
 | **[MedSim](https://github.com/jerryjlwang/medsim)** | world models for trauma center simulation | won innovation track at harvard hsil hackathon 2026 |
 | **[OneSixOne Ventures](https://onesixone.ventures)** | custom built web platform | currently deployed |
 | **[ZombieSlayer](https://github.com/jerryjlwang/ZombieSlayer)** | gaussian denoiser for zombie injections | researching |
+| **[StudForge](https://devpost.com/software/studforge)** | compiler for robotic swarm training environements | ddoski's lab grand prize finalist at berkeley ai hackathon 2026 |
 
 ---
 
